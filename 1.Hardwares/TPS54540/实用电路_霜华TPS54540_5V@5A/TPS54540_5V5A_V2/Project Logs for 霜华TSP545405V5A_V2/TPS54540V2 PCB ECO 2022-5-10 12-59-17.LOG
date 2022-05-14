@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=R10-2
+Change Component Comment : Designator=R10 Old Comment=0.5k New Comment=11k
+Change Component Comment : Designator=R9 Old Comment=11k New Comment=0.5k
+Change Component Comment : Designator=C8 Old Comment=µÁ»›1n8 New Comment=1n8
+Added Component: Designator=C9(0603C)
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R1-1
+Added Pin To Net: NetName=NetC9_1 Pin=R9-2
+Added Pin To Net: NetName=NetC9_1 Pin=U1-5
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Net: Name=NetR9_1
+Added Member To Class: ClassName=TPS54540_V2 Member=Component C9 1n8
+Added Room: Name=TPS54540_V2

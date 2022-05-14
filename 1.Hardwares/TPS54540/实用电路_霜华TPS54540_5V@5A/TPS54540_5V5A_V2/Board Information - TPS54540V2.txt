@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\Project\PCB\实用电路_霜华TSP54540_5V@5A\霜华TSP545405V5A_V2\TPS54540V2.PcbDoc
+Date         : 2022/5/10
+Time         : 22:53:27
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 51
+    Connections routed, 51
+    Connections remaining, 0
+count : 4
