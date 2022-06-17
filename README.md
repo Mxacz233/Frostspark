@@ -1,7 +1,6 @@
 
 <img src="./2.Docs/Images/Frostspark02.jpg">
 
-## **注意：本项目长期施工，目前没有成型的进展**
 
 ---
 ## **霜华**
